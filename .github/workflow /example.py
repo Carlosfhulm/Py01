@@ -1,5 +1,5 @@
 def main ():
-  print "hellow"
+  print ("hellow")
 
 
 if __main__==__main__:
